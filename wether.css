@@ -1,0 +1,12 @@
+body{
+    background: #eeedec ;
+    letter-spacing: 0.2em; 
+    font-size: 0.8em;
+}
+.time {
+    max-width: 400px;
+    max-height: 300px;
+}
+.countainer {
+    max-width: 400px ;
+}
